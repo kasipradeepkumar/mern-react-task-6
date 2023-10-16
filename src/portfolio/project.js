@@ -14,7 +14,7 @@ function Projects(){
         <div>
             <nav class="navbar navbar-expand-lg navbar-expand-md">
                 <div class="container-fluid">
-                    <Link to="/" class="navbar-brand">Satish</Link>
+                    <Link to="/" class="navbar-brand">Pradeep</Link>
                 </div>
                 <button type="button" class="navbar-toggler btn btn-primary" data-bs-target="#demo" data-bs-toggle="collapse">
                     <FontAwesomeIcon icon={faBars} />
