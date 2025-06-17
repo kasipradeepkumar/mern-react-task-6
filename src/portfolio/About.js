@@ -33,7 +33,7 @@ function About(){
                 <div>
                     <label>Name:</label><span class="details">Kasi Pradeep Kumar</span><br/><br/>
                     <label>Date of Birth:</label><span class="details">01 September 2003</span><br/><br/>
-                    <label>Age:</label><span class="details">20</span><br/><br/>
+                    <label>Age:</label><span class="details">21</span><br/><br/>
                     <label>Degree:</label><span class="details">Bachelor of Technology</span><br/><br/>
                     <label>College:</label><span class="details">Vellore Institute of Technology, Amaravati</span><br/><br/>
                     <label>Phone No:</label><span class="details">+91 9397070790</span><br/><br/>
